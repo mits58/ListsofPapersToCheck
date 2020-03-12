@@ -1,5 +1,5 @@
-The Lists of papers to check
-
+The Lists of papers to check.
+Most of papers in this repository are written about graph neural networks (GNN).
 
 # List
 
@@ -12,3 +12,8 @@ The Lists of papers to check
 - [NeurIPS2019](./NeurIPS2019.md)
 
 ## 2020
+- [AAAI2020](./AAAI2020.md)
+- [ICLR2020](./ICLR2020.md)
+
+## TBA
+ICML2020, KDD2020, IJCNN(2020, 2019)....
