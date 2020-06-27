@@ -1,5 +1,6 @@
 The Lists of papers to check.
 Most of papers in this repository are written about graph neural networks (GNN).
+I'll write some explanations about these papers in Issues.
 
 # List
 
